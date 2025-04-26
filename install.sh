@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Konfigurasi
-TELEGRAM_API_URL="https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage"
-CHAT_ID="YOUR_CHAT_ID"
-VPS_IP="123.123.123.123"
-DOMAIN="yourdomain.com"
-ADMIN_NAME="Admin"
-GITHUB_REPO="https://github.com/YOUR_USERNAME/YOUR_REPO.git"
+TELEGRAM_API_URL="https://api.telegram.org/7339190471:AAGXSY1F_fzJo4SBqHjqeF8HdR4t9AnIMKs/sendMessage"
+CHAT_ID="7661292905"
+VPS_IP="167.172.85.220"
+DOMAIN="vvip.pxstore.biz.id"
+ADMIN_NAME="PX STORE"
+GITHUB_REPO="https://github.com/p3yx/vip"
 LOCAL_REPO_DIR="/path/to/your/repository"
 
 # Fungsi kirim Telegram
