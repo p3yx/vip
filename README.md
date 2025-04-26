@@ -12,7 +12,7 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install jq -y && apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/vip23-px/sc/main/premi.sh && chmod +x premi.sh && ./premi.sh
+wget https://yourgithub.com/path/install.sh && chmod +x install.sh && ./install.sh
 
 ```
 
