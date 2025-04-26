@@ -12,7 +12,8 @@
 
 ### INSTALL SCRIPT 
 ```
-wget https://yourgithub.com/path/install.sh && chmod +x install.sh && ./install.sh
+wget https://raw.githubusercontent.com/p3yx/vip/main/install.sh && chmod +x install.sh && ./install.sh
+
 
 ```
 
